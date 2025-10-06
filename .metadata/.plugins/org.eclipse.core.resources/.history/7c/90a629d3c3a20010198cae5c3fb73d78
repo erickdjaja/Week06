@@ -1,0 +1,15 @@
+
+package Week06;
+
+public class barang {
+
+	public barang() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
